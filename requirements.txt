@@ -1,0 +1,4 @@
+pandas==1.2.3
+feedparser==6.0.8
+psycopg2-binary==2.9.2
+openpyxl==3.0.5
